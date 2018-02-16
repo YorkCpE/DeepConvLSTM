@@ -4,7 +4,7 @@ import time
 
 import numpy as np
 import cPickle as cp
-import Theano.tensor as T
+import theano.tensor as T
 from sliding_window import sliding_window
 
 # Hardcoded number of sensor channels employed in the OPPORTUNITY challenge
