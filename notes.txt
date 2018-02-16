@@ -1,5 +1,11 @@
+##OSX Notes
+
 Significant issues running out of the box with Theano. 
 
 Follow install instructions carefully @ http://deeplearning.net/software/theano/install.html
 
 No solution found to current clang run time issues. Probably version incompatabilities.
+
+
+##Ubuntu Notes
+Fully operational and running. No compile or runtime difficulties
