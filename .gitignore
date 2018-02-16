@@ -6,3 +6,7 @@ include/
 .ipynb_checkpoints/DeepConvLSTM-checkpoint.ipynb
 
 .Python
+
+pip-selfcheck.json
+
+DeepConvLSTM.ipynb
